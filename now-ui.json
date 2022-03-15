@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-784437-image-compare-demo": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "GlideFast Image Compare",
+				"icon": "document-outline",
+				"description": "Compare couple of images",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_784437_glidefa_2"
+}
